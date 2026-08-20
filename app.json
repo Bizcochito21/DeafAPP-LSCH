@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "DeafApp",
+    "slug": "DeafApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "95dbcada-15c7-46dd-a53b-20342a820b52"
+      }
+    },
+    "owner": "bizcochito",
+    "android": {
+      "package": "com.bizcochito.DeafApp"
+    }
+  }
+}
